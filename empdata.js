@@ -1,124 +1,137 @@
 {
   "data": [
     {
+      "name": "Sally Hansen",
+      "title": "Owner",
+      "salary": "$90,700",
+      "date_of_birth": "1982/07/25",
+      "specialty": "manicure"
+    },
+    {
+      "name": "Jane Hansen",
+      "title": "Pedicure Artist",
+      "salary": "$62,750",
+      "date_of_birth": "1975/08/22",
+      "specialty": "stone pedicure"
+    },
+    {
+      "name": "Lily Tova",
+      "title": "Nail Artist",
+      "salary": "$59,750",
+      "date_of_birth": "1990/07/21",
+      "specialty": "designs"
+    },
+    {
+      "name": "Ari Lones",
+      "title": "Pedicure Artist",
+      "salary": "$69,730",
+      "date_of_birth": "21975/04/03",
+      "specialty": "french pedicure"
+    },
+    {
+      "name": "Alex Wagner",
+      "title": "Nail Artist",
+      "salary": "$55,550",
+      "date_of_birth": "1995/09/03",
+      "specialty": "ANC"
+    },
+    {
+      "name": "Kate Howe",
+      "title": "Nail Technician",
+      "salary": "$49,000",
+      "date_of_birth": "1992/02/01",
+      "specialty": "manicure"
+    },
+    {
+      "name": "Kim Howe",
+      "title": "Nail Technician",
+      "salary": "$50,000",
+      "date_of_birth": "1992/02/01",
+      "specialty": "french manicure"
+    },
+    {
+      "name": "Mary Lamb",
+      "title": "Pedicure Artist",
+      "salary": "$52,600",
+      "date_of_birth": "1979/11/24",
+      "specialty": "stone pedicure"
+    },
+    {
       "name": "James Bond",
-      "designation": "Accountant",
+      "title": "Accountant",
       "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "date_of_birth": "2011/07/25",
+      "specialty": "Tokyo"
     },
     {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "name": "James Bond",
+      "title": "Accountant",
+      "salary": "$170,750",
+      "date_of_birth": "2011/07/25",
+      "specialty": "Tokyo"
     },
     {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "name": "James Bond",
+      "title": "Accountant",
+      "salary": "$170,750",
+      "date_of_birth": "2011/07/25",
+      "specialty": "Tokyo"
     },
     {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "name": "James Bond",
+      "title": "Accountant",
+      "salary": "$170,750",
+      "date_of_birth": "2011/07/25",
+      "specialty": "Tokyo"
     },
     {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "name": "Kit Small",
+      "title": "Nail Artist",
+      "salary": "$60,000",
+      "date_of_birth": "1988/02/22",
+      "specialty": "stone pedicure"
     },
     {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "name": "Debbie Ona",
+      "title": "Nail Artist",
+      "salary": "$48,750",
+      "date_of_birth": "1968/02/11",
+      "specialty": "designs"
     },
     {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "name": "Jill Hanes",
+      "title": "Nail Artist",
+      "salary": "$75,200",
+      "date_of_birth": "1960/10/10",
+      "specialty": "designs"
     },
     {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "name": "Lain Young",
+      "title": "Pedicure Artist",
+      "salary": "$55,750",
+      "date_of_birth": "1992/09/27",
+      "specialty": "sea pedicure"
     },
     {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "name": "Sara Howe",
+      "title": "Nail Artist",
+      "salary": "$71,000",
+      "date_of_birth": "1985/03/16",
+      "specialty": "gel manicure"
     },
     {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "name": "Matthew Long",
+      "title": "Pedicure Artist",
+      "salary": "$55,750",
+      "date_of_birth": "1990/05/29",
+      "specialty": "stone pedicure"
     },
     {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
-    },
-    {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
-    },
-    {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
-    },
-    {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
-    },
-    {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "name": "Harriet Potter",
+      "title": "Nail Artist",
+      "salary": "$53,700",
+      "date_of_birth": "1975/07/09",
+      "specialty": "designs"
     }
   ]
 }
