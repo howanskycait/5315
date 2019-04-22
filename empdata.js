@@ -57,34 +57,6 @@
       "specialty": "stone pedicure"
     },
     {
-      "name": "James Bond",
-      "title": "Accountant",
-      "salary": "$170,750",
-      "date_of_birth": "2011/07/25",
-      "specialty": "Tokyo"
-    },
-    {
-      "name": "James Bond",
-      "title": "Accountant",
-      "salary": "$170,750",
-      "date_of_birth": "2011/07/25",
-      "specialty": "Tokyo"
-    },
-    {
-      "name": "James Bond",
-      "title": "Accountant",
-      "salary": "$170,750",
-      "date_of_birth": "2011/07/25",
-      "specialty": "Tokyo"
-    },
-    {
-      "name": "James Bond",
-      "title": "Accountant",
-      "salary": "$170,750",
-      "date_of_birth": "2011/07/25",
-      "specialty": "Tokyo"
-    },
-    {
       "name": "Kit Small",
       "title": "Nail Artist",
       "salary": "$60,000",
