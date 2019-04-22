@@ -1,123 +1,108 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
-      <name>James Bond</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
-      <extension>8422</extension>
+      <name>Sally Hansen</name>
+      <title>Owner</title>
+      <salary>$90,700</salary>
+      <date_of_birth>1982/07/25</date_of_birth>
+      <specialty>manicure</specialty>
     </data>
     <data>
-      <name>Brielle Williamson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$372,000</salary>
-      <joining_date>2012/12/02</joining_date>
-      <office>New York</office>
-      <extension>4804</extension>
+      <name>Jane Hansen</name>
+      <title>Pedicure Artist</title>
+      <salary>$62,750</salary>
+      <date_of_birth>1975/08/22</date_of_birth>
+      <specialty>stone pedicure</specialty>
     </data>
     <data>
-      <name>Ashton Cox</name>
-      <designation>Junior Technical Author</designation>
-      <salary>$86,000</salary>
-      <joining_date>2009/01/12</joining_date>
-      <office>San Francisco</office>
-      <extension>1562</extension>
+      <name>Lily Tova</name>
+      <title>Nail Artist</title>
+      <salary>$59,750</salary>
+      <date_of_birth>1990/07/21</date_of_birth>
+      <specialty>designs</specialty>
     </data>
     <data>
-      <name>Airi Satou</name>
-      <designation>Accountant</designation>
-      <salary>$162,700</salary>
-      <joining_date>2008/11/28</joining_date>
-      <office>Tokyo</office>
-      <extension>5407</extension>
+      <name>Ari Lones</name>
+      <title>Pedicure Artist</title>
+      <salary>$69,730</salary>
+      <date_of_birth>1975/04/03</date_of_birth>
+      <specialty>french pedicure</specialty>
     </data>
     <data>
-      <name>Caesar Vance</name>
-      <designation>Pre-Sales Support</designation>
-      <salary>$106,450</salary>
-      <joining_date>2011/12/12</joining_date>
-      <office>New York</office>
-      <extension>8330</extension>
+      <name>Alex Wagner</name>
+      <title>Nail Artist</title>
+      <salary>$55,550=0</salary>
+      <date_of_birth>1995/09/03</date_of_birth>
+      <specialty>ANC</specialty>
     </data>
     <data>
-      <name>Shad Decker</name>
-      <designation>Regional Director</designation>
-      <salary>$183,000</salary>
-      <joining_date>2008/11/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>6373</extension>
+      <name>Kate Howe</name>
+      <title>Nail Technician</title>
+      <salary>$49,000</salary>
+      <date_of_birth>1992/02/01</date_of_birth>
+      <specialty>manicure</specialty>
     </data>
     <data>
-      <name>Cedric Kelly</name>
-      <designation>Senior Javascript Developer</designation>
-      <salary>$433,060</salary>
-      <joining_date>2012/03/29</joining_date>
-      <office>Edinburgh</office>
-      <extension>6224</extension>
+      <name>Kim Howe</name>
+      <title>Nail Technician</title>
+      <salary>$50,000</salary>
+      <date_of_birth>1992/02/01</date_of_birth>
+      <specialty>french manicure</specialty>
     </data>
     <data>
-      <name>Haley Kennedy</name>
-      <designation>Senior Marketing Designer</designation>
-      <salary>$313,500</salary>
-      <joining_date>2012/12/18</joining_date>
-      <office>London</office>
-      <extension>3597</extension>
+      <name>Mary Lamb</name>
+      <title>Pedicure Artist</title>
+      <salary>$52,600</salary>
+      <date_of_birth>1979/11/24</date_of_birth>
+      <specialty>stone pedicure</specialty>
     </data>
     <data>
-      <name>Colleen Hurst</name>
-      <designation>Javascript Developer</designation>
-      <salary>$205,500</salary>
-      <joining_date>2009/09/15</joining_date>
-      <office>San Francisco</office>
-      <extension>2360</extension>
+      <name>Kit Small</name>
+      <title>Nail Artist</title>
+      <salary>$60,000</salary>
+      <date_of_birth>1988/02/22</date_of_birth>
+      <specialty>stone pedicure</specialty>
     </data>
     <data>
-      <name>Dai Rios</name>
-      <designation>Personnel Lead</designation>
-      <salary>$217,500</salary>
-      <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
-      <extension>2290</extension>
+      <name>Debbie Ona</name>
+      <title>Nail Artist</title>
+      <salary>$48,750</salary>
+      <date_of_birth>1968/02/11</date_of_birth>
+      <specialty>designs</specialty>
     </data>
     <data>
-      <name>Herrod Chandler</name>
-      <designation>Sales Assistant</designation>
-      <salary>$137,500</salary>
-      <joining_date>2012/08/06</joining_date>
-      <office>San Francisco</office>
-      <extension>9608</extension>
+      <name>Jill Hanes</name>
+      <title>Nail Artist</title>
+      <salary>$75,200</salary>
+      <date_of_birth>1960/10/10</date_of_birth>
+      <specialty>ANC</specialty>
     </data>
     <data>
-      <name>Rhona Davidson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$327,900</salary>
-      <joining_date>2010/10/14</joining_date>
-      <office>Tokyo</office>
-      <extension>6200</extension>
+      <name>Lain Young</name>
+      <title>Pedicure Artist</title>
+      <salary>$55,750</salary>
+      <date_of_birth>1992/09/27</date_of_birth>
+      <specialty>sea pedicure</specialty>
     </data>
     <data>
-      <name>Sonya Frost</name>
-      <designation>Software Engineer</designation>
-      <salary>$103,600</salary>
-      <joining_date>2008/12/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>1667</extension>
+      <name>Sara Howe</name>
+      <title>Nail Artist</title>
+      <salary>$71,000</salary>
+      <date_of_birth>1985/03/16</date_of_birth>
+      <specialty>gel manicure</specialty>
     </data>
     <data>
-      <name>Jena Gaines</name>
-      <designation>Office Manager</designation>
-      <salary>$90,560</salary>
-      <joining_date>2008/12/19</joining_date>
-      <office>London</office>
-      <extension>3814</extension>
+      <name>Matthew Long</name>
+      <title>Pedicure Artist</title>
+      <salary>$55,750</salary>
+      <date_of_birth>1990/05/29</date_of_birth>
+      <specialty>stone pedicure</specialty>
     </data>
     <data>
-      <name>Quinn Flynn</name>
-      <designation>Support Lead</designation>
-      <salary>$342,000</salary>
-      <joining_date>2013/03/03</joining_date>
-      <office>Edinburgh</office>
-      <extension>9497</extension>
+      <name>Harriet Potter</name>
+      <title>Nail Artist</title>
+      <salary>$53,700</salary>
+      <date_of_birth>1975/07/09</date_of_birth>
+      <specialty>designs</specialty>
     </data>
   </employees>
